@@ -1,15 +1,1 @@
-Takeaways
-
-1) Object.keys
-2) Object.values
-3)toString
-4) Split
-5) Join
-6)result.innerHTML = `<img src="${response[0].flags.svg}" class='flag-img'>
-<h2>${response[0].name.common}</h2>
-<div class = 'wrapper'>
-<div class = 'data-wrapper'>
-<h4>Capital:</h4>
-<span>${response[0].capital[0]}</span>
-</div>
-</div>`
+Create a country guide app that allows the user to search for a particular country and then displays information related to the searched country. Used 'Rest Countries API' in this project.
